@@ -1,5 +1,6 @@
 # audioset_downloader
 
+- AudioSet csv file download link : https://research.google.com/audioset/download.html
 
 
 ### Step for AudioSet download
