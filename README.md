@@ -10,6 +10,10 @@
 - http://storage.googleapis.com/us_audioset/youtube_corpus/v1/csv/unbalanced_train_segments.csv
 - http://storage.googleapis.com/us_audioset/youtube_corpus/v1/csv/class_labels_indices.csv
 
+
+### Folder configuration : './csv_files'
+- 
+
 ### Step for AudioSet download
 
 1. create pickle or csv file.
