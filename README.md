@@ -4,7 +4,11 @@
 
 
 ### Folder configuration
-
+- 
+- place the csv files given by AudioSet in this folder
+- http://storage.googleapis.com/us_audioset/youtube_corpus/v1/csv/eval_segments.csv
+- http://storage.googleapis.com/us_audioset/youtube_corpus/v1/csv/balanced_train_segments.csv
+- http://storage.googleapis.com/us_audioset/youtube_corpus/v1/csv/unbalanced_train_segments.csv
 
 ### Step for AudioSet download
 
