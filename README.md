@@ -3,6 +3,9 @@
 - AudioSet csv file download link : https://research.google.com/audioset/download.html
 
 
+### Folder configuration
+
+
 ### Step for AudioSet download
 
 1. create pickle or csv file.
