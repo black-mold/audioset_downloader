@@ -3,12 +3,12 @@
 - AudioSet csv file download link : https://research.google.com/audioset/download.html
 
 
-### Folder configuration
-- 
-- place the csv files given by AudioSet in this folder
+### Folder configuration : './audioset_csv'
+- Download belows. and move them at './audioset_csv'
 - http://storage.googleapis.com/us_audioset/youtube_corpus/v1/csv/eval_segments.csv
 - http://storage.googleapis.com/us_audioset/youtube_corpus/v1/csv/balanced_train_segments.csv
 - http://storage.googleapis.com/us_audioset/youtube_corpus/v1/csv/unbalanced_train_segments.csv
+- http://storage.googleapis.com/us_audioset/youtube_corpus/v1/csv/class_labels_indices.csv
 
 ### Step for AudioSet download
 
