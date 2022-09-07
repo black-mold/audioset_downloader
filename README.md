@@ -18,6 +18,8 @@
 
 1. create pickle or csv files
 
+- To generate csv and pickle files located at ./audioset_csv/ folder 
+
 ```
 
 ```
