@@ -39,5 +39,12 @@
 2. download AudioSet files by classes
 
 ```
+# download class : /m/09x0r, partition : eval_segments
+python download.py -c /m/09x0r -pn eval_segments.pickle
+
+# download class : /m/09x0r, partition : balanced_train_segments
+python download.py -c /m/09x0r -pn balanced_train_segments.pickle
+
+# download class : /m/09x0r, partition : unbalanced_train_segments
 python download.py -c /m/09x0r -pn eval_segments.pickle
 ```
