@@ -1,0 +1,13 @@
+
+download/*
+
+no_use/*
+
+
+audioset_csv/unbalanced_train_segments.csv
+
+
+csv_files/unbalanced_train_segments.csv
+csv_files/unbalanced_train_segments.pickle
+
+
