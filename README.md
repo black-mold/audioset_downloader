@@ -12,7 +12,7 @@
 
 
 ### Folder configuration : './csv_files'
-- Transformation of './audioset_csv'' files to use as pandas library.
+- Transformation of './audioset_csv'' files to use pandas library.
 -
 
 ### Step for AudioSet download
