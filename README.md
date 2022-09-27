@@ -51,11 +51,12 @@ python download.py -c /m/09x0r -pn eval_segments.pickle
 
 
 ### 2. Audioset(strong) download code
-'''
+
+```
 # download. class : /m/03qc9zr, partition : train
 python download_strong.py -m target -c /m/03qc9zr -t ./audioset_csv/audioset_train_strong.tsv
 
 # download all classes. partition : eval
 python download_strong.py -m all -t ./audioset_csv/audioset_eval_strong.tsv
-# 
-'''
+```
+
