@@ -5,7 +5,9 @@ no_use/*
 
 
 audioset_csv/unbalanced_train_segments.csv
-
+audioset_csv/audioset_eval_strong.tsv
+audioset_csv/audioset_train_strong.tsv
+audioset_csv/mid_to_display_name.tsv
 
 csv_files/unbalanced_train_segments.csv
 csv_files/unbalanced_train_segments.pickle
